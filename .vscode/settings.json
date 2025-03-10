@@ -1,0 +1,22 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "c:\\Users\\leonardo.santoro\\esp\\esp-idf-v5.4\\esp-idf-v5.4",
+    "idf.toolsPathWin": "c:\\Users\\leonardo.santoro\\.espressif",
+    "idf.pythonInstallPath": "c:\\Users\\leonardo.santoro\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.portWin": "COM3",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "array": "cpp",
+        "chrono": "cpp",
+        "format": "cpp",
+        "forward_list": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "regex": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp"
+    }
+}
